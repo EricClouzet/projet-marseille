@@ -166,7 +166,7 @@ nav {
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 479px) {
     .accueil {
         height: 550px;
     }
@@ -557,7 +557,7 @@ nav {
     color: #f1f1f1;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 800px) {
     .parallax p, .parallax span {        
         padding: 0 20px;
         text-align: center;
@@ -783,7 +783,7 @@ footer {
     width: 560px;
     height: 315px;
 }
-@media screen and (max-width:360px){
+@media screen and (max-width:479px){
     .iframe iframe{
         width: 300px;
         height: 200px;
